@@ -1,0 +1,1 @@
+bin/sspexp_run -x -d 0 -w 0 -s 0 -m 2 -g input_graphs/$1 -e output_graphs/$1
